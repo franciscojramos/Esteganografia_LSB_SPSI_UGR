@@ -130,11 +130,6 @@ Ejemplo:
 - El tamaño del mensaje está limitado por el número de píxeles de la imagen
 - Solo funciona con formatos sin compresión con pérdida (PNG recomendado)
 
-
-
-
-```
-
 ## Información del Proyecto
 
 **Asignatura:** SPSI (Seguridad y Protección de Sistemas Informáticos) 2025-2026  
